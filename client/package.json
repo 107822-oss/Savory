@@ -2,7 +2,7 @@
   "name": "savory",
   "version": "1.0.0",
   "description": "Food Ordering App",
-  "scripts": {
+  "scripts":{
   "start": "react-scripts start",
   "build": "react-scripts build"
 }
