@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./src/components/Header.js";
 import Body from "./src/components/Body.js";
-import Footer from "./src/Components/Footer.js";
+import Footer from "./src/components/Footer.js";
 import About from "./src/components/About.js";
 import Error from "./src/components/Error.js";
 import Contact from "./src/components/Contact.js";
